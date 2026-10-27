@@ -1,5 +1,5 @@
 class ShopifyDevTools < Formula
-  desc "Command-line program to assist with the development and maintenance of Shopify apps and stores (metafields, metaobjects, GraphQL, orders, products, webhooks, and more!)"
+  desc "Command-line program to assist with the development and maintenance of Shopify apps and stores"
   homepage "https://github.com/ScreenStaring/shopify-dev-tools"
   version "0.1.6"
   license "MIT"
